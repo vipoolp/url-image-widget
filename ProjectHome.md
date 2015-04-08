@@ -1,0 +1,1 @@
+URLImageWidget is a simple Android widget to display generated image from a URL. The widget checks for updates to the image hourly. It is useful, for example, to display flairs or badges.
